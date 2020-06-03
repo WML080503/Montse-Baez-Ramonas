@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ¡!
+=======
+¡Houston,tenemos un problema!
+>>>>>>> frase1.2
+Apollo 13 (1995)
+>>>>>>> pelicula
