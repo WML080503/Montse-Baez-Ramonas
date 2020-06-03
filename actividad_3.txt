@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ¡Houston, un !
 Apollo 13
+=======
+¡Houston,tenemos un!
+Apollo 13 (1995)
+>>>>>>> frase
